@@ -6,7 +6,7 @@ Authored: Fsh org
 This is not a open source license as of version 1.9 of the open source definition, it is a source-available license.
 
 ## 1. Modification / Derivations
-You may fork, modify, and or change any part of the code or service provided.
+You may fork, modify, and or change any part of the code or service provided, all changed aspects must fall under the same license.
 
 ## 2. Distribution
 You may use this code for any purposes with credit visible in clear easy to read text next to the parts used or in a general credits page, you must not make the code monetized but may monetize your material.
