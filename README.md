@@ -6,7 +6,7 @@ Authored: Fsh org
 This is not a open source license as of version 1.9 of the [open source definition](https://opensource.org/osd), it is a source-available license.
 
 ## 1. Modification / Derivations
-You may fork, copy, modify, and or change any part of the licensed material provided, all changed aspects will fall under the same license.
+You may fork, copy, modify, and or change any part of the licensed material provided, all changed aspects shall fall under the same license.
 
 ## 2. Distribution
 You may distribute the licensed material, you must not monetize the distributed licensed material.
