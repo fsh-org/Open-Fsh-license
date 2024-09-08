@@ -1,5 +1,5 @@
 # Open Fsh 1.0
-Released: //24 (dd/mm/yy)
+Released: 08/09/24 (dd/mm/yy)
 Authored: Fsh org
 
 ## Warning
@@ -18,4 +18,4 @@ You may use this code for any purposes, you must not monetize use of the license
 - You can: Paid softwere but licensed code and service at no additional cost.
 
 ## 4. Credit
-You must credit the original authors with the credit visible in clear easy to read text next to the parts used or in a general credits page.
+You must credit the original authors with the credit visible in clear easy to read text next to the parts used or in a general credits page and linking to the original source.
