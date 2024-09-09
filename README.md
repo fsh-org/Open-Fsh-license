@@ -1,5 +1,5 @@
 # Open Fsh 1.0
-Released: 08/09/24 (dd/mm/yy)
+Released: 09/09/24 (dd/mm/yy)
 Authored: Fsh org
 
 ## Disclaimer
